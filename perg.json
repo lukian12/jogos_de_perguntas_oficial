@@ -1,0 +1,25 @@
+{
+    "perguntas": [
+      {
+        "questao": " 1.Qual foi a primeira capital do Brasil?",
+        "opcoes": ["a) São Paulo", "b) Brasília", "c)Salvador", "d)  Rio de Janeiro", "e) Belo Horizonte"],
+        "resposta": "c"
+      },
+      {
+        "questao": "2.Qual é o maior rio do Brasil?",
+        "opcoes": ["a) Rio Amazonas", "b) Rio São Francisco", "c)  Rio Paraná", "d)  Rio Paraná", "e) Rio Ceará"],
+        "resposta": "a"
+      },
+      {
+        "questao": "3.Que navio famoso naufragou na sua viagem inaugural?",
+        "opcoes": ["a)Symphony of the Sea","b)Airbus", "c)Boeing", "d)Antonov", "e)Titanic"],
+        "resposta": "e"
+      },
+      {
+        "questao": "4.Quais as respectivas cores da reciclagem do papel, do vidro, do metal e do plástico?",
+        "opcoes": ["a)verde, amarelo, azul e vermelho","b)azul, amarelo, verde e vermelho", "c)azul, verde, amarelo e vermelho", "d)verde, azul, vermelho e amarelo", "e)vermelho, amarelo, verde e azul"],
+        "resposta": "c"
+      }
+    ]
+  }
+  
